@@ -1,0 +1,14 @@
+{
+  "name": "individual5",
+  "version": "1.0.0",
+  "description": "Script que recebe propriedades CSS digitadas pelo usuário até que ele digite 'sair' e, em seguida, as ordena. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jadi Ribeiro",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
